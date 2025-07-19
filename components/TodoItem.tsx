@@ -2,7 +2,7 @@
 
 import { useTodoStore } from "@/store/todoStore";
 
-// Item
+// Item Absen
 export default function TodoItem() {
   const { todos, toggleTodo, deleteTodo } = useTodoStore();
 
